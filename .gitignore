@@ -2,3 +2,4 @@ venv/*
 corpus/*
 source/*
 wikiextractor.egg-info/*
+.vscode/*
